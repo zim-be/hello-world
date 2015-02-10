@@ -1,2 +1,3 @@
 # hello-world
-just to get going..
+Just to get going..
+I am studying computer engineering at algonquin college in Ottawa Canada.
